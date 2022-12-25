@@ -3,7 +3,7 @@ set_version();
 // The latest version will be released on https://github.com/open-spaced-repetition/fsrs4anki
 
 // Default parameters of FSRS4Anki for global
-var w = [1, 1, 5, -0.5, -0.5, 0.2, 1.4, -0.12, 0.8, 2, -0.2, 0.2, 1];
+var w = [0.9577, 1.0494, 4.9789, -0.444, -0.804, 0.0, 1.6307, -0.012, 1.017, 1.6661, -0.5224, 0.3593, 0.7115];
 // The above parameters can be optimized via FSRS4Anki optimizer.
 
 // User's custom parameters for global
